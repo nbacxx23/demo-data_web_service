@@ -8,3 +8,7 @@ The application must contain the routes for: <br/>
 2 upload a dataset <br/>
 3 get the right dataset that respect the schema(delete the bad lines - with null or not the desired type)
 
+Use a database <br/>
+The application must connect to a chosen database. In the database diffrents types of logs are stored like uploading time, etc.
+
+Dockerlization the application
